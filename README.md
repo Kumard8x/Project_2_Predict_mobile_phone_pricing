@@ -1,6 +1,10 @@
 # Mobile Phone Price Prediction using Machine learning.
 
 ## How to Access the mobile pridiction of app using below link.
+Click one below link.
+
+Note: if app is sleeping. Please click on `Yes, Get this app back up`
+
 app: https://project2-predict-mobile-phone-pricing.streamlit.app/ 
 
 ## Project Overview
